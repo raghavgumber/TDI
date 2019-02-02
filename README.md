@@ -13,5 +13,8 @@ As of now, I only try to look at whether I can come up with some empirical analy
 ### Code:
 lossRateIndependentProject.jpynb contains all the code that is self-contained and can be used to reproduce all the analysis done herein.
 
+### Summary:
+A monthly vintage level summary of the loans is provided in "summaryDF.csv". This includes all the features engineered and made via aggregation. A detailed description of this is provided in the Report.
+
 ### Report:
 A Detailed report is also attached
